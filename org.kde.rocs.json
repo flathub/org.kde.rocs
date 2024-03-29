@@ -6,11 +6,11 @@
     "command": "rocs",
     "rename-icon": "rocs",
     "finish-args": [
-        "--share=ipc",
-        "--filesystem=xdg-documents",
         "--device=dri",
-        "--socket=wayland",
-        "--socket=fallback-x11"
+        "--filesystem=xdg-documents",
+        "--share=ipc",
+        "--socket=fallback-x11",
+        "--socket=wayland"
     ],
     "modules": [
         {
