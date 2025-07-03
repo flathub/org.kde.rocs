@@ -57,8 +57,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/rocs-25.04.2.tar.xz",
-                    "sha256": "e8d5af6cd63cd15a41195f10f1da09284c3e86a1fdd61d4e0bebccd01b3435ff",
+                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/rocs-25.04.3.tar.xz",
+                    "sha256": "7aa095b6605dbd9075250b070d388b78fc2d739f483b404a41182c7bfb705a99",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
