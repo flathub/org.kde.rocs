@@ -12,6 +12,13 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
+     "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/doc",
+        "*.la",
+        "*.a"
+    ],
     "modules": [
         {
             "name": "boost",
