@@ -12,7 +12,7 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
-     "cleanup": [
+    "cleanup": [
         "/include",
         "/lib/cmake",
         "/share/doc",
@@ -68,8 +68,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/rocs-25.12.2.tar.xz",
-                    "sha256": "20ff83d0dd881c4ad167076b9de7976f85607d2c05eb914eb293bb752c7855a6",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/rocs-25.12.3.tar.xz",
+                    "sha256": "39d2b3ce9a9185042a67da755fb669eb92c9f5b7618d99a42879d5951adc731f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
